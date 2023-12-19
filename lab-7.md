@@ -1,6 +1,6 @@
-# NEUB CSE 322 Summer 2022 Lab 13
+# NEUB CSE 322 Summer 2023 Lab 7
 
-Find all Codes at  [Lab 13](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-13).
+Find all Codes at  [Lab 7](https://github.com/shparvez001/NEUB-CSE-322-Summer-2023/tree/main/lab-7).
 
 ## Task 1
 Write a code to drive dc motors using L298 motor driver. Different movement should be incorporated using individual functions.
@@ -8,7 +8,7 @@ Write a code to drive dc motors using L298 motor driver. Different movement shou
 
 Circuit:
 
-![Lab 13 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-13/CSE-322-2202-lab13-task-1CKT_bb.png)
+![Lab 13 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-7/CSE-322-2302-lab7-task-1CKT_bb.png)
 
 Code
 ```c

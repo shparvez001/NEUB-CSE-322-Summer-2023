@@ -1,6 +1,6 @@
-# NEUB CSE 322 Summer 2022 Lab 15
+# NEUB CSE 322 Summer 2023 Lab 15
 
-Find all Codes at  [Lab 15](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-15).
+Find all Codes at  [Lab 9](https://github.com/shparvez001/NEUB-CSE-322-Summer-2023/tree/main/lab-9).
 
 ## Task 1
 Write a code for light follower robot.
@@ -24,7 +24,7 @@ Circuit:
 
 
 IR sensor connection
-![IR sensor connection](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-15/ir-sensor-connection.png)
+![IR sensor connection](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-9/ir-sensor-connection.png)
 
 Code
 ```c

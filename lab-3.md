@@ -1,13 +1,13 @@
-# NEUB CSE 322 Summer 2022 Lab 9
+# NEUB CSE 322 Summer 2023 Lab 3
 
-Find all Codes at  [Lab 9](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-9).
+Find all Codes at  [Lab 3](https://github.com/shparvez001/NEUB-CSE-322-Summer-2023/tree/main/lab-3).
 
 ## Task 1
 EEPROM read and write code.
 
 Circuit:
 
-![Lab 9 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-9/CSE-322-2202-lab9-task-1CKT_bb.png)
+![Lab 3 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-3/CSE-322-2302-lab3-task-1CKT_bb.png)
 
 Code
 ```c
@@ -41,7 +41,7 @@ Using EEPROM to store a pattern of LED and pulsing through the pattern.
 
 Circuit:
 
-![Lab 9 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-9/CSE-322-2202-lab9-task-2CKT_bb.png)
+![Lab 3 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-3/CSE-322-2302-lab3-task-2CKT_bb.png)
 
 Code
 ```c

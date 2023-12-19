@@ -1,13 +1,13 @@
-# NEUB CSE 322 Summer 2022 Lab 10
+# NEUB CSE 322 Summer 2023 Lab 4
 
-Find all Codes at  [Lab 10](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-10).
+Find all Codes at  [Lab 4](https://github.com/shparvez001/NEUB-CSE-322-Summer-2023/tree/main/lab-4).
 
 ## Task 1
 Reading analong value using built-in ADC.
 
 Circuit:
 
-![Lab 10 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-10/CSE-322-2202-lab10-task-1CKT_bb.png)
+![Lab 4 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-4/CSE-322-2302-lab4-task-1CKT_bb.png)
 
 Code
 ```c
@@ -35,7 +35,7 @@ Reading voltage using built-in ADC and showing it inb serial monitor.
 
 Circuit:
 
-![Lab 10 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-10/CSE-322-2202-lab10-task-2CKT_bb.png)
+![Lab 4 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-4/CSE-322-2302-lab4-task-2CKT_bb.png)
 
 Code
 ```c
@@ -62,7 +62,7 @@ Using LDR as sensor.
 
 Circuit:
 
-![Lab 10 Task 3 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-10/CSE-322-2202-lab10-task-3CKT_bb.png)
+![Lab 4 Task 3 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-4/CSE-322-2302-lab4-task-3CKT_bb.png)
 
 
 Code
@@ -105,7 +105,7 @@ Basic switch Operation.
 
 Circuit:
 
-![Lab 10 Task 4 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-10/CSE-322-2202-lab10-task-4CKT_bb.png)
+![Lab 4 Task 4 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-4/CSE-322-2302-lab4-task-4CKT_bb.png)
 
 
 Code

@@ -1,6 +1,6 @@
-# NEUB CSE 322 Summer 2022 Lab 14
+# NEUB CSE 322 Summer 2023 Lab 8
 
-Find all Codes at  [Lab 14](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-14).
+Find all Codes at  [Lab 8](https://github.com/shparvez001/NEUB-CSE-322-Summer-2023/tree/main/lab-8).
 
 ## Task 1
 Write a code to drive dc motors with variable speed using L298 motor driver. Different movement should be incorporated using individual functions.
@@ -10,7 +10,7 @@ Write a code to drive dc motors with variable speed using L298 motor driver. Dif
 
 Circuit:
 
-![Lab 14 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-14/CSE-322-2202-lab14-task-1CKT_bb.png)
+![Lab 8 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-8/CSE-322-2302-lab8-task-1CKT_bb.png)
 
 Code
 ```c
@@ -106,7 +106,7 @@ Servo motor driving.
 
 Circuit:
 
-![Lab 14 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-14/CSE-322-2202-lab14-task-2CKT_bb.png)
+![Lab 8 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-8/CSE-322-2302-lab8-task-2CKT_bb.png)
 
 
 Code

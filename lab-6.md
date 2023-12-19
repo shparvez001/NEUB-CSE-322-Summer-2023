@@ -1,6 +1,6 @@
-# NEUB CSE 322 Summer 2022 Lab 12
+# NEUB CSE 322 Summer 2023 Lab 6
 
-Find all Codes at  [Lab 12](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-12).
+Find all Codes at  [Lab 6](https://github.com/shparvez001/NEUB-CSE-322-Summer-2023/tree/main/lab-6).
 
 ## Task 1
 Using switch with interrupt.
@@ -9,7 +9,7 @@ Using switch with interrupt.
 
 Circuit:
 
-![Lab 12 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-12/CSE-322-2202-lab12-task-1CKT_bb.png)
+![Lab 6 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-6/CSE-322-2302-lab6-task-1CKT_bb.png)
 
 Code
 ```c
@@ -40,9 +40,9 @@ Write a code to drive a dc motor using L298 motor driver.
 
 Circuit:
 
-![Lab 12 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-12/CSE-322-2202-lab12-task-2CKT_bb.png)
+![Lab 6 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-6/CSE-322-2302-lab6-task-2CKT_bb.png)
 
-![L298 Motor Driver Module pinout](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-12/L298-Motor-Driver-02-1100x1100.jpg)
+![L298 Motor Driver Module pinout](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-6/L298-Motor-Driver-02-1100x1100.jpg)
 
 Code
 ```c

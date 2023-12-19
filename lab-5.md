@@ -1,13 +1,13 @@
-# NEUB CSE 322 Summer 2022 Lab 11
+# NEUB CSE 322 Summer 2023 Lab 5
 
-Find all Codes at  [Lab 11](https://github.com/shparvez001/NEUB-CSE-322-Summer-2022/tree/main/lab-11).
+Find all Codes at  [Lab 5](https://github.com/shparvez001/NEUB-CSE-322-Summer-2023/tree/main/lab-5).
 
 ## Task 1
 Write an arduino code change the status of LED (on or off) based on switch input.
 
 Circuit:
 
-![Lab 11 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-11/CSE-322-2202-lab11-task-1CKT_bb.png)
+![Lab 5 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-5/CSE-322-2302-lab5-task-1CKT_bb.png)
 
 Code
 ```c
@@ -48,7 +48,7 @@ Write an arduino code change the status of LED (on or off) based on switch input
 
 Circuit:
 
-![Lab 11 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-11/CSE-322-2202-lab11-task-2CKT_bb.png)
+![Lab 5 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-5/CSE-322-2302-lab5-task-2CKT_bb.png)
 
 Code
 ```c

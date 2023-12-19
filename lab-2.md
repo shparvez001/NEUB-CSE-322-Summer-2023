@@ -1,4 +1,4 @@
-# NEUB CSE 322 Summer 2022 Lab 2
+# NEUB CSE 322 Summer 2023 Lab 2
 
 Find all Codes at  [Lab 2](https://github.com/shparvez001/NEUB-CSE-322-Summer-2023/tree/main/lab-2).
 
@@ -7,7 +7,7 @@ Basic Input and output code for AVR.
 
 Circuit:
 
-![Lab 2 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-2/CSE-322-2203-lab2-task-1CKT_bb.png)
+![Lab 2 Task 1 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-2/CSE-322-2302-lab2-task-1CKT_bb.png)
 
 Code
 ```c
@@ -35,7 +35,7 @@ LED blinking code in AVR.
 
 Circuit:
 
-![Lab 8 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2022/main/lab-8/CSE-322-2202-lab8-task-2CKT_bb.png)
+![Lab 2 Task 2 Circuit in breadboard](https://raw.githubusercontent.com/shparvez001/NEUB-CSE-322-Summer-2023/main/lab-2/CSE-322-2302-lab2-task-2CKT_bb.png)
 
 Code
 ```c
